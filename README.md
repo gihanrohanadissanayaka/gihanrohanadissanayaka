@@ -1,10 +1,6 @@
 ### <img src="https://github.com/Shiv-sharma-111/Shiv-sharma-111/blob/master/Assets/Hi.gif" width="29px"> Hi there!&nbsp;<img src="https://github.com/Shiv-sharma-111/Shiv-sharma-111/blob/master/Assets/Earth.gif" width="24px">
 
-I'm a software engineering student who is passionate about writing code, solving problems, automating stuff, and building software.
-
-- 🔭 I’m currently a undergraduate student at Unversity of Ruhuna.
-- 📚 I’m learning backend web development using NodeJS, ExpressJS and MongoDB.
-- 👀 I’m interested in web development
+##### I'm Engineering undergraduate at Faculty of Engineering,University of Ruhuna.I hope to do my higher education and specializing area as software engineering and I have a strong interest towards programming, web app development and machine learning.
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=gihanrohanadissanayaka&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
