@@ -11,11 +11,9 @@
 
 ## 📫 How To Reach Me
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.weltonf@gmail.com)](mailto:contato.dissanayaka.gihanrohana@gmail.com)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+94711651378&text=Hi!)]()
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://www.twitter.com/_weltonfelix/)](https://www.twitter.com/axshivam/)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/weltonpfelix/)](https://web.facebook.com/profile.php?id=100004284887135&comment_id=Y29tbWVudDo5Nzc1MzgyMzMwNjQwODFfOTc3ODQzNTgzMDMzNTQ2)
 <a href="https://www.linkedin.com/in/gihan-dissanayaka-9947b3216/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.weltonf@gmail.com)](mailto:dissanayaka.gihanrohana@gmail.com)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/weltonpfelix/)](https://web.facebook.com/profile.php?id=100004284887135&comment_id=Y29tbWVudDo5Nzc1MzgyMzMwNjQwODFfOTc3ODQzNTgzMDMzNTQ2)
 
 
 <p align="center">
