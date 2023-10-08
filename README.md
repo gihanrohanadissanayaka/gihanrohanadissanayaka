@@ -1,7 +1,6 @@
 ###  Hi there!&nbsp;
 
-##### I'm Engineering undergraduate at Faculty of Engineering,University of Ruhuna.I hope to do my higher education and specializing area as software engineering and I have a strong interest towards programming, web app development and machine learning.
-
+##### Software engineer at Codegen International with over 1 year of hands-on experience in the dynamic realm of the software industry. A proud graduate of the Faculty of Engineering, University of Ruhuna, my expertise spans the full-stack domain. Passionate about crafting elegant solutions and exploring the limitless possibilities of code.
 
 <img src="https://github-readme-stats.vercel.app/api?username=gihanrohanadissanayaka&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
 
